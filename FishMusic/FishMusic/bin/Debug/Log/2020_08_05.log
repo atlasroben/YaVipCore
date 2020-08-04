@@ -1,0 +1,42 @@
+2020-08-05 02:43:50 System.TypeInitializationException: “Un4seen.Bass.Bass”的类型初始值设定项引发异常。 ---> System.DllNotFoundException: 无法加载 DLL“bass”: 找不到指定的模块。 (异常来自 HRESULT:0x8007007E)。
+   在 Un4seen.Bass.Bass.BASS_SetConfig(BASSConfig option, Int32 newvalue)
+   在 Un4seen.Bass.Bass.InitBass()
+   在 Un4seen.Bass.Bass..cctor()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 Un4seen.Bass.Bass.BASS_ChannelSetAttribute(Int32 handle, BASSAttribute attrib, Single value)
+   在 FishMusic.ViewModel.PlayViewModel.set_PlayerVolume(Int32 value) 位置 F:\Project\Csharp\MusicDownLoader\YaVipCore\FishMusic\FishMusic\ViewModel\PlayViewModel.cs:行号 56
+2020-08-05 02:43:50 System.TypeInitializationException: “Un4seen.Bass.Bass”的类型初始值设定项引发异常。 ---> System.DllNotFoundException: 无法加载 DLL“bass”: 找不到指定的模块。 (异常来自 HRESULT:0x8007007E)。
+   在 Un4seen.Bass.Bass.BASS_SetConfig(BASSConfig option, Int32 newvalue)
+   在 Un4seen.Bass.Bass.InitBass()
+   在 Un4seen.Bass.Bass..cctor()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 Un4seen.Bass.Bass.BASS_Init(Int32 device, Int32 freq, BASSInit flags, IntPtr win)
+   在 FishMusic.ViewModel.PlayViewModel.InitBass() 位置 F:\Project\Csharp\MusicDownLoader\YaVipCore\FishMusic\FishMusic\ViewModel\PlayViewModel.cs:行号 100
+2020-08-05 02:52:26 System.TypeInitializationException: “Un4seen.Bass.Bass”的类型初始值设定项引发异常。 ---> System.DllNotFoundException: 无法加载 DLL“bass”: 找不到指定的模块。 (异常来自 HRESULT:0x8007007E)。
+   在 Un4seen.Bass.Bass.BASS_SetConfig(BASSConfig option, Int32 newvalue)
+   在 Un4seen.Bass.Bass.InitBass()
+   在 Un4seen.Bass.Bass..cctor()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 Un4seen.Bass.Bass.BASS_ChannelSetAttribute(Int32 handle, BASSAttribute attrib, Single value)
+   在 FishMusic.ViewModel.PlayViewModel.set_PlayerVolume(Int32 value) 位置 F:\Project\Csharp\MusicDownLoader\YaVipCore\FishMusic\FishMusic\ViewModel\PlayViewModel.cs:行号 56
+2020-08-05 02:52:26 System.TypeInitializationException: “Un4seen.Bass.Bass”的类型初始值设定项引发异常。 ---> System.DllNotFoundException: 无法加载 DLL“bass”: 找不到指定的模块。 (异常来自 HRESULT:0x8007007E)。
+   在 Un4seen.Bass.Bass.BASS_SetConfig(BASSConfig option, Int32 newvalue)
+   在 Un4seen.Bass.Bass.InitBass()
+   在 Un4seen.Bass.Bass..cctor()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 Un4seen.Bass.Bass.BASS_Init(Int32 device, Int32 freq, BASSInit flags, IntPtr win)
+   在 FishMusic.ViewModel.PlayViewModel.InitBass() 位置 F:\Project\Csharp\MusicDownLoader\YaVipCore\FishMusic\FishMusic\ViewModel\PlayViewModel.cs:行号 100
+2020-08-05 02:53:23 System.TypeInitializationException: “Un4seen.Bass.Bass”的类型初始值设定项引发异常。 ---> System.DllNotFoundException: 无法加载 DLL“bass”: 找不到指定的模块。 (异常来自 HRESULT:0x8007007E)。
+   在 Un4seen.Bass.Bass.BASS_SetConfig(BASSConfig option, Int32 newvalue)
+   在 Un4seen.Bass.Bass.InitBass()
+   在 Un4seen.Bass.Bass..cctor()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 Un4seen.Bass.Bass.BASS_ChannelSetAttribute(Int32 handle, BASSAttribute attrib, Single value)
+   在 FishMusic.ViewModel.PlayViewModel.set_PlayerVolume(Int32 value) 位置 F:\Project\Csharp\MusicDownLoader\YaVipCore\FishMusic\FishMusic\ViewModel\PlayViewModel.cs:行号 56
+2020-08-05 02:53:23 System.TypeInitializationException: “Un4seen.Bass.Bass”的类型初始值设定项引发异常。 ---> System.DllNotFoundException: 无法加载 DLL“bass”: 找不到指定的模块。 (异常来自 HRESULT:0x8007007E)。
+   在 Un4seen.Bass.Bass.BASS_SetConfig(BASSConfig option, Int32 newvalue)
+   在 Un4seen.Bass.Bass.InitBass()
+   在 Un4seen.Bass.Bass..cctor()
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 Un4seen.Bass.Bass.BASS_Init(Int32 device, Int32 freq, BASSInit flags, IntPtr win)
+   在 FishMusic.ViewModel.PlayViewModel.InitBass() 位置 F:\Project\Csharp\MusicDownLoader\YaVipCore\FishMusic\FishMusic\ViewModel\PlayViewModel.cs:行号 100
